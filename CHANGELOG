@@ -1,5 +1,8 @@
 === CHANGE LOG ===
 
+== Version 1.6.4 ==
+* Fix Steam OpenID response parsing
+
 == Version 1.6.3 ==
 * Adjusted default case for no location set in Steam
 * Updated to latest official Steam OpenID login buttons
