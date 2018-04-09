@@ -31,7 +31,7 @@ Steam Authentication & Integration 1.6.0+ only works with XenForo 1.5.0+.
 
 ## Upgrading from previous versions
 
-### Version below 1.5.0
+### Versions below 1.5.0
 
 1. Delete ```root/js/steam/```.
 
