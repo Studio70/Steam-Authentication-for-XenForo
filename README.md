@@ -38,9 +38,15 @@ Steam Authentication & Integration 1.6.0+ only works with XenForo 1.5.0+.
 
 * cURL
 
-## Upgrading from previous versions
+## Upgrading from previous versions - including the original version by HowIChrgeLazer
 
-### Versions below 1.5.0
+### Versions after 1.5.0
+
+1. Upload the contents of the ```upload/``` folder to your XenForo directory.
+
+2. Upgrade the add-on using the ```addon-Steam.xml``` file.
+
+### Versions 1.5.0 or earlier
 
 1. Delete ```root/js/steam/```.
 
