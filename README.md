@@ -64,14 +64,15 @@ You can set permissions in the users section of the XF admin control panel.
 
 ## Support
 
-* Slack: [Join](https://join.slack.com/t/s70/shared_invite/enQtMzAyMjM4MTA2MjEwLTJkZTY5YTg4NWIyYzQ5YjJlZmYzMGJlN2Q3YTYwZTRmMjJmMmI3MTVhZDQwYTY0MzEwZDUyMDZjZmMxZmU2ZWQ)
+* Discord: [Join group](https://discord.gg/KgRTSqb)
+
+* Slack: [Join channel](https://join.slack.com/t/s70/shared_invite/enQtMzAyMjM4MTA2MjEwLTJkZTY5YTg4NWIyYzQ5YjJlZmYzMGJlN2Q3YTYwZTRmMjJmMmI3MTVhZDQwYTY0MzEwZDUyMDZjZmMxZmU2ZWQ)
 
 * Telegram: https://t.me/Studio70
 
 * Private Message: [Start a chat](https://xenforo.com/community/conversations/add?to=Assadi,^Alex)
 
 * E-Mail: [Send a message](mailto:omar@assadi.co.il)
-
 
 ## Legal
 
