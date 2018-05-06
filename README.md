@@ -70,7 +70,7 @@ You can set permissions in the users section of the XF admin control panel.
 
 * Private Message: [Start a chat](https://xenforo.com/community/conversations/add?to=Assadi,^Alex)
 
-* E-Mai: [Send a message](mailto:omar@assadi.co.il)
+* E-Mail: [Send a message](mailto:omar@assadi.co.il)
 
 
 ## Legal
